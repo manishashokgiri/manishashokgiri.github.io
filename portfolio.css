@@ -131,9 +131,22 @@ body{
 	font-size: 20px;
 	font-weight: 200
 }
+.contact_form{
+	padding: 25px 10px;
+	font-size: 20px;
+}
 .footer{
 	background-color: #101010;
 	color: white;
 	padding: 10px;
 	font-size: 15px;
+}
+@media only screen and (max-width: 450px){
+	.control-label{
+		font-size: 12px;text-align: center;
+	}
+}
+.error{
+	font-size: 10px;
+	color: red;
 }
