@@ -150,3 +150,8 @@ body{
 	font-size: 10px;
 	color: red;
 }
+
+.img-circle{
+	border-radius: 25%;
+	margin: 0 auto;
+}
